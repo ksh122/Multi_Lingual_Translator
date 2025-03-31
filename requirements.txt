@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+pandas
+tqdm
+sacrebleu
+nltk
+matplotlib
+seaborn
+streamlit
